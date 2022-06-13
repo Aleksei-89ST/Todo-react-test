@@ -1,6 +1,6 @@
 import React from "react";
 import { BsCheck } from "react-icons/bs";
-import cn from 'classnames'
+import cn from "classnames";
 
 const Check = ({ isCompleted }) => {
   return (
